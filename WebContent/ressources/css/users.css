@@ -1,0 +1,75 @@
+@charset "ISO-8859-1";
+
+
+body{
+	
+	background-image: url('https://images7.alphacoders.com/596/596343.jpg');
+	height: 2000px;
+	width: 2000px
+	
+	
+	
+}
+
+#a {
+	
+	font-size: 70px;
+
+    text-align: center;
+	color: red ;
+}
+
+h1{
+
+    color: black;
+
+    font-size: 100px;
+
+    text-align: center;
+
+    text-decoration: underline;
+
+    border: red 2px solid;
+
+}
+
+img {
+	height: 200px;
+	width: 200px;
+	
+}
+
+.block_produit {
+	text-align: center; width : 350px;
+	display: inline-block;
+	border: 2px solid darkgray;
+	margin-left: 10px;
+	margin-top: 10px;
+	background: black;
+	width: 350px;
+}
+
+.description {
+	font-size: 12px;
+	text-align: center;
+	color: black;
+	border: 1px solid #000000;
+
+    background-color: #ffffff;
+
+}
+
+#conteneur{
+
+margin : auto;
+}
+.nom_prenom {
+text-align: center;
+background: black;
+
+
+}
+
+
+
+}
